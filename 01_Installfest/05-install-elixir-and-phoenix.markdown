@@ -73,7 +73,7 @@ mix local.hex
 Type this in the terminal:
 
 ```
-mix archive.install https://github.com/phoenixframework/archives/raw/master/phx_new.ez
+mix archive.install hex phx_new 1.4.0
 ```
 
 You will see:
